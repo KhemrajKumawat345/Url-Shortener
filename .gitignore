@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Maven build files
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
